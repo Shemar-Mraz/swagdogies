@@ -1,0 +1,14 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreichrehokfxdpxtl6ugymvkivx6rrkgd2rnpmfg3u3bdbsd4ukcoge",
+  "name": "swagiedogs",
+  "description": "REPLACE THIS",
+  "file_url": "https://ipfs.io/ipfs/QmUf9tDbkqnfHkQaMdFWSGAeXwVXWA61pFED7ypx4hcsfh",
+  "external_url": "https://swagiedogs.netlify.com",
+  "animation_url": null,
+  "custom_fields": {
+    "date": 1647039293429,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "attributes": null
+}

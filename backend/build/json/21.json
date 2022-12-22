@@ -1,0 +1,40 @@
+{
+  "name": "Swagie Dogs #21",
+  "description": "Swagie Dogs willr eign the world",
+  "image": "https://ipfs.io/ipfs/bafkreicl4kikf622ofk65ccktg6hsrfofnfgkb3bf772ow25py555znkmy",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "9"
+    },
+    {
+      "trait_type": "body",
+      "value": "5"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "5"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "5_r"
+    },
+    {
+      "trait_type": "beard and mustache",
+      "value": "6"
+    }
+  ],
+  "dna": "fa7f7cd41cbe8e1a98daaefcd367789e72e80d47",
+  "edition": 21,
+  "external_url": "https://swagiedogs.netlify.com",
+  "date": 1671677060038,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

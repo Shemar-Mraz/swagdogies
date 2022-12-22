@@ -1,0 +1,9 @@
+{
+  "response": "OK",
+  "chain": "goerli",
+  "transaction_hash": "0x8ca88724787675419b9a983894c04de8a12ba62b9c7e45056c14c0ab68233460",
+  "transaction_external_url": "https://goerli.etherscan.io/tx/0x8ca88724787675419b9a983894c04de8a12ba62b9c7e45056c14c0ab68233460",
+  "owner_address": "0x0B051Fe877849F83c62CC7B9381580992c87ca10",
+  "name": "swagiedogs",
+  "symbol": "SDGS"
+}
